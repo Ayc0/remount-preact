@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  },
+  "dependencies": {
+    "preact": "^10.0.0-alpha.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "remount": "^0.9.5"
+  }
+}
